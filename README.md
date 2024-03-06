@@ -15,7 +15,7 @@
 
 ## 1. Introduction
 
-NeuronDP is a differential privacy federated learning framework that adds noise at the neuron level. It currently supports six different networks:  MLP, LeNet5[19] (60k parameters), AlexNet[16] (61.5 million param-eters), ResNet18[10] (11.7 million parameters), VGG11[30] (133 million parameters), DenseNet121[11] (8 million parameters). Besides, NeuronDP introduces a model distillation-based approach to enable it in FL across the heterogeneous models.
+NeuronDP is a differential privacy federated learning framework that adds noise at the neuron level. It currently supports six different networks:  MLP, LeNet5 (60k parameters), AlexNet (61.5 million param-eters), ResNet18 (11.7 million parameters), VGG11 (133 million parameters), DenseNet121 (8 million parameters). Besides, NeuronDP introduces a model distillation-based approach to enable it in FL across the heterogeneous models.
 
 ## 2. How to get started
 
