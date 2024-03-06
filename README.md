@@ -1,10 +1,17 @@
 # NeuronDP
 
-![NeuronDP](./images/NeuronDP.png)
+![NeuronDP](./images/Neurondp.png)
 
 ## Table of contents
 
-[TOC]
+- [1 Introduction](#1-introduction)
+- [2 How to get started](#2-how-to-get-started)
+  * [2.1 Setup](#21-setup)
+  * [2.2 Usage](#22-usage)
+- [3 Supported models and datasets](#3-supported-models-and-datasets)
+- [4 Experiments](#4-Experiments)
+  * [4.1 Evaluation on homogeneous settings](#41-Evaluation-on-homogeneous-settings)
+  * [4.2 Evaluation on heterogeneous settings](#42-Evaluation-on-heterogeneous-settings)
 
 ## 1. Introduction
 
