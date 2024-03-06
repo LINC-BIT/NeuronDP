@@ -33,8 +33,8 @@ NeuronDP is a differential privacy federated learning framework that adds noise 
 1. Create a conda environment and activate it.
 
    ```
-   conda create -n FedKNOW python=3.7
-   conda active FedKNOW
+   conda create -n NeuronDP python=3.7
+   conda active NeuronDP
    ```
 
 2. Install PyTorch 1.9+ in the [offical website](https://pytorch.org/). A NVIDIA graphics card and PyTorch with CUDA are recommended.
@@ -43,7 +43,7 @@ NeuronDP is a differential privacy federated learning framework that adds noise 
 3. Clone this repository and install the dependencies.
 
    ```
-   git clone https://github.com/
+   git clone https://github.com/LINC-BIT/NeuronDP.git
    pip install -r requirements.txt
    ```
 
