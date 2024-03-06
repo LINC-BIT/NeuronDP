@@ -90,8 +90,8 @@ NeuronDP is a differential privacy federated learning framework that adds noise 
 
 |      |                          Model Name                          |                           Dataset                            |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  ☑   |                             MLP                              | [MNIST](http:// yann.lecun.com/exdb/mnist), [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) |
-|  ☑   |     [LeNet5](https://hal.science/hal-03926082/document)      | [MNIST](http:// yann.lecun.com/exdb/mnist), [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) |
+|  ☑   |                             MLP                              | [MNIST](http://yann.lecun.com/exdb/mnist/), [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) |
+|  ☑   |     [LeNet5](https://hal.science/hal-03926082/document)      | [MNIST](http://yann.lecun.com/exdb/mnist/), [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) |
 |  ☑   | [AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) | [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) |
 |  ☑   | [ResNet18](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) |
 |  ☑   |    [VGG11](https://arxiv.org/pdf/1409.1556.pdf%E3%80%82)     | [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) |
